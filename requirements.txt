@@ -1,0 +1,8 @@
+ipykernel
+scikit-learn
+EoN
+networkx
+matplotlib
+seaborn
+tqdm
+pandas
